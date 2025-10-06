@@ -2,7 +2,17 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrBlinki.MrBlinki&"  />
 
 ###
 
@@ -10,14 +20,15 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MrBlinki.MrBlinki&"  />
+<div align="center">
+  <a href="www.linkedin.com/in/matthiasroth130499" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Contact%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBlinki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBlinki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Techs</h3>
 
 ###
 
@@ -39,10 +50,13 @@
 
 ###
 
+<h3 align="left">Stats</h3>
+
+###
+
 <div align="center">
-  <a href="www.linkedin.com/in/matthiasroth130499" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Contact%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBlinki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBlinki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,5 +66,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBlinki/MrBlinki/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBlinki/MrBlinki/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
