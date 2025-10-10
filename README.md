@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Developer in the making at 42Lausanne - Switzerland 🇨🇭</p>
+<p align="left">👨🏻‍💻 Developer in the making at 42Lausanne — Switzerland 🇨🇭</p>
+<p align="left">🔭 Currently working on <b>ft_transcendence</b>, the final project of the 42 Common Core 🎯</p>
+<p align="left">🎓 After that, I’ll be looking for an internship — the next step in my 42Lausanne adventure 🚀</p>
+<p align="left">🤝 I thrive on teamwork, feedback, and building cool stuff with great people 👥</p>
+<p align="left">⚙️ Tinkerer at heart — I love solving problems and crafting smarter solutions 🧠</p>
 
 ###
 
