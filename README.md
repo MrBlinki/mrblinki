@@ -67,6 +67,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBlinki/MrBlinki/output/pacman-contribution-graph.svg">
 </picture>
 
+(Stats also include private repositories)
+
 ###
 
 <div>
